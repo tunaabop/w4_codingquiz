@@ -1,5 +1,5 @@
-# w4_codingquiz
-# Week 4 Challenge: Timed Code Quiz
+# w4_coding_quiz
+# Coding Challenge: Timed Code Quiz
 ### Description
 Build a timed coding quiz with multiple choice questions featuring dynamically updated HTML and CSS powered by JavaScript code. The quiz will run in browser with clean and responsive user interface.
 
